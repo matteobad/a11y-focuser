@@ -1,0 +1,34 @@
+{
+  "version": 2,
+  "tags": [
+    {
+      "name": "a11y-focuser",
+      "description": "A component to create a stylable outline for accesible keyboard navigation",
+      "properties": [],
+      "events": [],
+      "slots": [],
+      "cssProperties": [
+        {
+          "name": "--a11y-focuser-width",
+          "description": "Focuser outline weight",
+          "type": "Color"
+        },
+        {
+          "name": "--a11y-focuser-color",
+          "description": "Focuser outline color",
+          "type": "Color"
+        },
+        {
+          "name": "--a11y-focuser-style",
+          "description": "Focuser outline style",
+          "type": "Style"
+        },
+        {
+          "name": "--a11y-focuser-offset",
+          "description": "Focuser outline offset",
+          "type": "Offeset"
+        }
+      ]
+    }
+  ]
+}
